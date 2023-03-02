@@ -61,6 +61,7 @@ public class UsoIteradores {
         while(iter.hasNext())//Recorre la lista si hay siguiente en ella
             System.out.println(iter.next());//Muestra de la lista lo que haya en la siguiente posicion
         
+        //COMPARE TO
         //ORDENAR POR ESPECIFICACIONES DE OBJETOS
         //implementar con implements Comparable en la clase y utilizar el siguiente metodo (ejemplo se hace con clase persona):
         /*public int compareTo(Object o) {
